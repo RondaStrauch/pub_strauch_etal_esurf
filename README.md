@@ -1,2 +1,16 @@
 # pub_strauch_etal_esurf
-Supporting files for publication 'Strauch et al., 2017 - Landslides in Landlab' in eSurf
+This repository contains example code and documentation related to the following manuscript:
+
+Strauch RL, Istanbulluoglu E, Nudurupati SS, Bandaragoda C, Gasparina N, and Tucker G. (in review). Hydro-climatological approach to predicting regional landslide probability. Earth Surface Dynamics.
+
+This manuscript is based on Landlab version 1.1.0.
+
+Installation instructions and documentation for Landlab are provided at:
+
+http://landlab.github.io/#/
+
+and
+
+http://landlab.readthedocs.org
+
+(Last updated June 2017)
