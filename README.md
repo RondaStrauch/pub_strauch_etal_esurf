@@ -1,5 +1,4 @@
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_strauch_etal_esurf/master?filepath=https%3A%2F%2Fgithub.com%2FChristinaB%2Fpub_strauch_etal_esurf%2Fblob%2Fmaster%2FSynthetic_recharge_LandlabLandslide.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_strauch_etal_esurf/master)
 
 # pub_strauch_etal_esurf
 This repository contains example code and documentation related to the following manuscript:
