@@ -7,3 +7,5 @@ scipy
 statsmodels
 pandas
 xarray
+landlab
+hs_restclient
