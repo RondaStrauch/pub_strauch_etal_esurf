@@ -1,5 +1,6 @@
+netcdf4=1.5.3
 pyshp==1.2.12
-statsmodels==0.8.0
+statsmodels==0.11.0
 geopandas==0.5.0
 dask==1.2.0
 ogh==0.2.1
