@@ -12,6 +12,5 @@ hstools==0.0.1
 scipy==1.3.1
 matplotlib==3.1.2
 descartes==1.1.0
-wget==3.2
 landlab==1.11.0  
 xarray==0.10.9
