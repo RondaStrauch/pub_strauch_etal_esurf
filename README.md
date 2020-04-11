@@ -1,6 +1,10 @@
-Python 3 Kernel Binder is available here to test Python 3 Version of Notebook built for Python 2 Master Branch
+Click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_strauch_etal_esurf/landlab-v2)
+to run an interactive notebook, Select and run **Synthetic_recharge_LandlabLandslide.ipynb** from Binder server.  The Python 3 Kernel Binder is made available to test Python 3 Version of Notebook built for Python 2 Master Branch.  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_strauch_etal_esurf/landlab-v2)
+View code in this [NOCA_runPaper_LandlabLandslide Jupyter Notebook](https://github.com/RondaStrauch/pub_strauch_etal_esurf/blob/master/NOCA_runPaper_LandlabLandslide.ipynb)] (Not interactive; no results printed)
+
+View code in this [NOCA_runPaper_LandlabLandslide_alreadyRun Notebook](https://github.com/RondaStrauch/pub_strauch_etal_esurf/blob/master/NOCA_runPaper_LandlabLandslide_alreadyRun.ipynb)] (Not interactive; results printed)
+
 
 # pub_strauch_etal_esurf
 This repository contains example code and documentation related to the following manuscript:
