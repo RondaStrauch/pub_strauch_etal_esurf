@@ -1,5 +1,5 @@
 Click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_strauch_etal_esurf/landlab-v2)
-to run an interactive notebook, Select and run **Synthetic_recharge_LandlabLandslide.ipynb** from Binder server.  The Python 3 Kernel Binder is made available to test Python 3 Version of Notebook built for Python 2 Master Branch.  
+to run an interactive notebook.  Once launched, select and run **Synthetic_recharge_LandlabLandslide.ipynb** from the Binder server.  The Python 3 Kernel Binder is made available to test Python 3 Version of Notebook built for Python 2 Master Branch.  
 
 View code in this [NOCA_runPaper_LandlabLandslide Jupyter Notebook](https://github.com/RondaStrauch/pub_strauch_etal_esurf/blob/master/NOCA_runPaper_LandlabLandslide.ipynb)] (Not interactive; no results printed)
 
